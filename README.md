@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm Yahya Bahhouss
+## 👋 Hi there! I'm Yahya
 
 🎯 Full-Stack Developer | 🌍 Based in Tallinn, Estonia  
 💻 Passionate about building web applications using **ReactJS, PHP, Java, and MySQL/PostgreSQL**  
