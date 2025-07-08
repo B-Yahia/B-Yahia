@@ -1,10 +1,10 @@
-## 👋 Hi there! I'm Yahya
+# 👋 Hi there! I'm Yahya
 
 💻 Full-Stack Developer | 🌍 Based in Tallinn, Estonia  
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
 I'm a full-stack developer with a passion for building web applications that help businesses attract clients or organise their work.
 
