@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm Yahya Bahhouss
 
-🎯 Junior Full-Stack Developer | 🌍 Based in Tallinn, Estonia  
+🎯 Full-Stack Developer | 🌍 Based in Tallinn, Estonia  
 💻 Passionate about building web applications using **ReactJS, PHP, Java, and MySQL/PostgreSQL**  
 📈 Always learning and growing through hands-on projects and real-world experience  
 
@@ -36,19 +36,15 @@ I also have experience in technical support, which has sharpened my communicatio
 
 Here are a few highlights (more in my pinned repositories):
 
-- 🛍️ [Scandiweb Fullstack App](https://github.com/B-Yahia/Scandiweb): E-commerce platform built with ReactJS frontend and PHP backend  
-- 📊 [Laravel CRUD API](https://github.com/B-Yahia/laravel-api-demo): Demo project demonstrating CRUD operations and API testing  
-- 🌐 [Multi-App Apache VPS](https://github.com/B-Yahia): Hosting multiple PHP apps using virtual hosts on a single VPS  
-- 🔐 [Auth App with JWT](https://github.com/B-Yahia/php-auth-jwt): Authentication system with JWT implemented in raw PHP  
 
 ---
 
 ## 📫 How to Reach Me
 
-- 🔗 Website: [thefullstackguy.site](https://www.thefullstackguy.site/)  
+- 🔗 Website: [thefullstackguy.com](https://www.thefullstackguy.com/)  
 - 📧 Email: Yahiabahhous@gmail.com  
 - 📱 Phone: (+372) 5808-7319  
-- 🧑‍💼 LinkedIn: [linkedin.com/in/yahya-bahhouss](https://www.linkedin.com/in/yahya-bahhouss)
+- 🧑‍💼 LinkedIn: [https://www.linkedin.com/in/yahia-bahhous/](https://www.linkedin.com/in/yahia-bahhous/)
 
 ---
 
