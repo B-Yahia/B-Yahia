@@ -1,16 +1,12 @@
 ## 👋 Hi there! I'm Yahya
 
-🎯 Full-Stack Developer | 🌍 Based in Tallinn, Estonia  
-💻 Passionate about building web applications using **ReactJS, PHP, Java, and MySQL/PostgreSQL**  
-📈 Always learning and growing through hands-on projects and real-world experience  
+💻 Full-Stack Developer | 🌍 Based in Tallinn, Estonia  
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I'm a junior full-stack developer with a background in software development and a strong interest in solving real-world problems with code. My journey began with Java and expanded into PHP and JavaScript, where I discovered a love for building responsive, interactive, and user-friendly web applications.
-
-I also have experience in technical support, which has sharpened my communication and troubleshooting skills—valuable assets in any development environment.
+I'm a full-stack developer with a passion for building web applications that help businesses attract clients or organise their work.
 
 ---
 
@@ -43,7 +39,6 @@ Here are a few highlights (more in my pinned repositories):
 
 - 🔗 Website: [thefullstackguy.com](https://www.thefullstackguy.com/)  
 - 📧 Email: Yahiabahhous@gmail.com  
-- 📱 Phone: (+372) 5808-7319  
 - 🧑‍💼 LinkedIn: [https://www.linkedin.com/in/yahia-bahhous/](https://www.linkedin.com/in/yahia-bahhous/)
 
 ---
