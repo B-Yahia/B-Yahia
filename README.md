@@ -6,10 +6,10 @@
 
 ## 🚀 About Me
 
-🔭 I’m currently working on building Quizzy. Quizzy is an AI-powered web application. that allow users to create quizzes that test and challenge their knowledge with a few button clicks.
-👯 I’m looking to collaborate on a Java-based project, preferably a Springboot application.
-🤝 I’m looking for help with finding some interesting projects to work on.
-🌱 I’m currently learning about apps deployment.
+- 🔭 I’m currently working on building Quizzy. Quizzy is an AI-powered web application. that allow users to create quizzes that test and challenge their knowledge with a few button clicks.
+- 👯 I’m looking to collaborate on a Java-based project, preferably a Springboot application.
+- 🤝 I’m looking for help with finding some interesting projects to work on.
+- 🌱 I’m currently learning about apps deployment.
 
 ---
 
