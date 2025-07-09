@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a full-stack developer with a passion for building web applications that help businesses attract clients or organise their work.
+🔭 I’m currently working building Quizzy. An AI powered web applications. that allow users to create quizz that test and challange their knowledge with a few button clicks.<br>👯 I’m looking to collaborate on on any Java based project.<br>🤝 I’m looking for help with finding some interesting projects to work on.<br>🌱 I’m currently learning about apps deployment.
 
 ---
 
